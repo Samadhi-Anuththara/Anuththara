@@ -1,4 +1,4 @@
-# 👋 Hello World, I'm Anuththara!
+# 👋 Hello World, I'm Anuththara! #
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Oyaage Nama" />
@@ -9,11 +9,10 @@
 ## 🚀 About Me
 I am a passionate student currently pursuing my studies in **[Oyaage Degree/Course/School Nama]**. I love exploring new technologies, building mini-projects, and solving problems through code.
 
-- 🎓 **Current Status:** Student at [University/Institute/School Name]
-- 💡 **Interests:** Web Development, Software Engineering, Data Science (Oya kamathi dewal danna)
-- 🌱 **Learning:** Currently diving deeper into [Dan igana ganna deyek - ex: React, Python, Java]
-- ✉️ **Reach me at:** [Oyaage Email Ekak]
-
+- 🎓 **Current Status:** Student at ICET
+- 💡 **Interests:** Web Development, Software Engineering, Data Science 
+- 🌱 **Learning:** Currently diving deeper into  React, Python, Java]
+- ✉️ **Reach me at:** samadhitharushini@gmail.com
 ---
 
 ## 🛠️ My Tech Stack
