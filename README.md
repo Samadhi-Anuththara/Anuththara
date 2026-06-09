@@ -1,13 +1,13 @@
 # 👋 Hello World, I'm Anuththara! #
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Oyaage Nama" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Samadhi Anuththara" />
 </p>
 
 ---
 
 ## 🚀 About Me
-I am a passionate student currently pursuing my studies in **[Oyaage Degree/Course/School Nama]**. I love exploring new technologies, building mini-projects, and solving problems through code.
+I am a passionate student currently pursuing my studies in **ICET**. I love exploring new technologies, building mini-projects, and solving problems through code.
 
 - 🎓 **Current Status:** Student at ICET
 - 💡 **Interests:** Web Development, Software Engineering, Data Science 
