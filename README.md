@@ -37,7 +37,7 @@ I am a passionate student currently pursuing my studies in **ICET**. I love expl
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=radical&column=3" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Samadhi-Anuththara&theme=radical&column=3" alt="GitHub Trophies" />
 </p>
 
 ---
