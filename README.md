@@ -35,11 +35,9 @@ I am a passionate student currently pursuing my studies in **ICET**. I love expl
 
 ---
 
-## 📊 GitHub Stats
-
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radial" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=radical&column=3" alt="GitHub Trophies" />
 </p>
 
 ---
